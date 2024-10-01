@@ -52,7 +52,7 @@ https://www.paraview.org/download/
 2. Equation setup (TrainDomain)
 3. Solver setup (Solver)
 
-<img src="pictures/Methodology.PNG"  align='center'/>
+<img src="D:\AI/Methodology.PNG"  align='center'/>
 
 ## procedure
 ```
